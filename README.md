@@ -1,5 +1,4 @@
 # [hyper](https://hyper.rs)
-
 [![crates.io](https://img.shields.io/crates/v/hyper.svg)](https://crates.io/crates/hyper)
 [![Released API docs](https://docs.rs/hyper/badge.svg)](https://docs.rs/hyper)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
